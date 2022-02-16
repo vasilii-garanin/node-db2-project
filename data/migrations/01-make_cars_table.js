@@ -1,3 +1,8 @@
+
+
+
+
+
 exports.up = function (knex) {
   // DO YOUR MAGIC
 };
